@@ -1,16 +1,16 @@
-# hi, i'm suravi ✨
+# hi, i'm suravi!
+
+> cse freshman @ uc davis — building as i learn
+
 ---
-cse freshman @ uc davis
 
-building as i learn
+**currently into**
+```c++``` systems thinking &nbsp;·&nbsp; full stack experiments
 
-currently into:
-- c++ / systems  
-- full stack
+**off the screen**
+☁️ &nbsp;code &nbsp;&nbsp;🎧 &nbsp;music &nbsp;&nbsp;🍵 &nbsp;matcha
 
-things i do to fill my cup:
-☁️ code  
-🎧 music  
-🍵 matcha
+---
 
-only getting better
+*only getting better.*
+```
