@@ -1,16 +1,16 @@
-## Hi there 👋
+# hi, i'm suravi ✨
+---
+cse freshman @ uc davis
 
-<!--
-**suruberry/suruberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+building as i learn
 
-Here are some ideas to get you started:
+currently into:
+- c++ / systems  
+- full stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+things i do to fill my cup:
+☁️ code  
+🎧 music  
+🍵 matcha
+
+only getting better
