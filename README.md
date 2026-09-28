@@ -1,5 +1,5 @@
 ## hi, i'm suravi!
-cse freshman @ uc davis — building as i learn
+cse sophmore @ uc davis — building as i learn
 
 currently into:
 ```c++``` systems thinking &nbsp;·&nbsp; data structures &nbsp;·&nbsp;  full-stack dev
